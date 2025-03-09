@@ -2,3 +2,4 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336ECF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Backend+Developer"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moham6dFathy&label=Profile%20views&color=0e75b6&style=flat" alt="Moham6dFathy" /> </p>

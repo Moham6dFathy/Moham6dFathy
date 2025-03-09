@@ -22,7 +22,11 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="http://www.w3.org/2000/svg" height="40" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://expressjs.com" height="40" alt="express logo"  />
+  <img width="15" />
+  <img src="https://img.jsdelivr.com/github.com/nestjs.png" height="40" alt="Nest logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="15" />
@@ -31,10 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="15" />
-  <img src="https://img.jsdelivr.com/github.com/nestjs.png" height="40" alt="Nest logo"  />
 </div>
 
 

@@ -8,8 +8,13 @@
   <a href="https://linkedin.com/in/moham6d-fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Fathy" height="30" width="40" /></a>
   <a href="https://www.facebook.com/people/Mohamed-Fathy/pfbid02J5x543kMkqEjBmJhwu4uwCnqhwbHsey3jvpZCCbZ2ab57b28jr1QFgCyRKneD1oGl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007136975513" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
+
+<p align="center">
+  <a target="_blank"> <img src="https://skillicons.dev/icons?i=cpp,cs,git,mysql,dotnet,postman&perline=9"/> </a>
+ 
+</p>
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -32,10 +37,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> -->
+<!--   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="15" />
+  <img width="15" /> -->
 </div>
 
 

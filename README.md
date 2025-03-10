@@ -17,7 +17,8 @@
 </p>
 
 
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=Moham6dFathy&show_icons=true&theme=white&show=prs_merged" alt="Moham6dFathy" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moham6dFathy&" alt="Moham6dFathy" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moham6dFathy&layout=donut&theme=white" alt="Moham6dFathy"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moham6dFathy&" alt="Moham6dFathy" />
+</div>

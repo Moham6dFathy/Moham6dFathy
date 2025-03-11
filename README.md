@@ -20,5 +20,4 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moham6dFathy&layout=donut&theme=white" alt="Moham6dFathy"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moham6dFathy&" alt="Moham6dFathy" />
 </div>
